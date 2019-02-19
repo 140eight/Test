@@ -1,1 +1,1 @@
-echo "Sanjeeva"
+echo "Proximus"
